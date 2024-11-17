@@ -17,6 +17,7 @@ export const ItemContainer = styled.div`
     a.remover {
         color: #FF0000;
         margin-top:20px;
+        cursor: pointer;
     }
 
     hr {
